@@ -16,7 +16,7 @@ pipelineJob('script1') {
 
           'hudson.plugins.git.UserRemoteConfig' {
 
-            'url'('https://github.com/ganeshgohane/CREDS.git')
+            'url'('https://github.com/ganeshgohane/b-19.git')
 
           }
 
